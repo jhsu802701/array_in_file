@@ -1,1 +1,1 @@
-require 'string_in_file'
+require 'array_in_file'
