@@ -20,6 +20,7 @@ Or install it yourself as:
 
 ### Store the strings "Doppler Value Investing" and "Bargain Stock Funds" at /home/wbuffett/test.txt: 
 array1 = ["Doppler Value Investing", "Bargain Stock Funds"]
+
 ArrayInFile.write(array1, "/home/wbuffett/test.txt")
 
 ### Read the string stored at /home/wbuffett/test.txt:
